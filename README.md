@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AS1alrasheed
+- 👋 Hi, I’m Alanoud
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning MYSQL and Python
 - 📫 How to reach me ... alanoudsaad.r@gmail.com
